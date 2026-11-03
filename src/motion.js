@@ -85,7 +85,7 @@ export function initMotion(){
   copy.prepend(count);
   const screens=document.createElement('div');screens.className='story-screens';
   [...slot.querySelectorAll('img')].filter(img=>{
-   const key=decodeURIComponent(img.getAttribute('src').replace('/assets/',''));const size=sizes[key];
+   const key=decodeURIComponent(img.getAttribute('src').split('/assets/').pop());const size=sizes[key];
    return !size||size[1]/size[0]<=2.2;
   }).slice(0,2).forEach(img=>{const clone=img.cloneNode();clone.loading='eager';screens.append(clone);});
   panel.append(copy,screens);story.append(panel);return panel;
