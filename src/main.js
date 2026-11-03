@@ -1,0 +1,10 @@
+import './style.css';
+import {gsap} from 'gsap';
+import {ScrollTrigger} from 'gsap/ScrollTrigger';
+import {evolution} from './chapters/evolution.js';
+import {evaluation} from './chapters/evaluation.js';
+import {finalChapter,recommendations} from './chapters/final.js';
+import {initMotion} from './motion.js';
+gsap.registerPlugin(ScrollTrigger);
+document.querySelector('#app').innerHTML=`<nav class="dot-nav" aria-label="Report stages">${[['low-fi','Low-Fi'],['wireframe','Wireframe'],['initial-high','Initial Hi-Fi'],['evaluation','Evaluation'],['final','Final']].map(([id,label])=>`<a href="#${id}" aria-label="${label}"><span>${label}</span><i></i></a>`).join('')}</nav><main id="main"><aside class="integration-minimal" data-integration="preceding">Previous team sections · integration placeholder</aside>${evolution()}${evaluation(recommendations())}${finalChapter()}<aside class="integration-minimal" data-integration="following">Following team sections · integration placeholder</aside></main><footer><span>Day One · HCI visual report</span><a href="#low-fi">Back to top ↑</a></footer>`;
+initMotion();

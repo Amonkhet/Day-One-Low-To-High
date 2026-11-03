@@ -1,0 +1,93 @@
+{
+  "low": [
+    "Low fi/Draft\u2229\u255d\u00eaDriver licence journey).png",
+    "Low fi/Draft(map-journey-ARlens).png"
+  ],
+  "pairs": [
+    {
+      "name": "Journey Tree",
+      "before": "Evaluation Comparison/Journey Tree/Journey Tree(Initial).png",
+      "after": "Evaluation Comparison/Journey Tree/Journey Tree(New).png"
+    },
+    {
+      "name": "Short Trip \u00b7 planning",
+      "before": "Evaluation Comparison/Explore/Explore(initial1).png",
+      "after": "Evaluation Comparison/Explore/Explore(new1).png"
+    },
+    {
+      "name": "Short Trip \u00b7 route",
+      "before": "Evaluation Comparison/Explore/Explore(initial2).png",
+      "after": "Evaluation Comparison/Explore/Explore(new2).png"
+    },
+    {
+      "name": "AR Lens",
+      "before": "Evaluation Comparison/AR Lens/AR Lens(initial).png",
+      "after": "Evaluation Comparison/AR Lens/AR Lens(new).png"
+    },
+    {
+      "name": "Ask This Place",
+      "before": "Evaluation Comparison/Ask This Place/Ask This Place(initial).png",
+      "after": "Evaluation Comparison/Ask This Place/Ask This Place(new).png"
+    },
+    {
+      "name": "Homepage",
+      "before": "Evaluation Comparison/Homepage/Homepage(initial).png",
+      "after": "Evaluation Comparison/Homepage/Homepage(new).png"
+    }
+  ],
+  "all": [
+    "day-one-logo.png",
+    "Evaluation Comparison/AR Lens/AR Lens(initial).png",
+    "Evaluation Comparison/AR Lens/AR Lens(new).png",
+    "Evaluation Comparison/Homepage/Homepage(new).png",
+    "Evaluation Comparison/Homepage/Homepage(initial).png",
+    "Evaluation Comparison/Ask This Place/Ask This Place(new).png",
+    "Evaluation Comparison/Ask This Place/Ask This Place(initial).png",
+    "Evaluation Comparison/Explore/Explore(initial1).png",
+    "Evaluation Comparison/Explore/Explore(new1).png",
+    "Evaluation Comparison/Explore/Explore(new2).png",
+    "Evaluation Comparison/Explore/Explore(initial2).png",
+    "Evaluation Comparison/Journey Tree/Journey Tree(New).png",
+    "Evaluation Comparison/Journey Tree/Journey Tree(Initial).png",
+    "Low fi/Draft\u2229\u255d\u00eaDriver licence journey).png",
+    "Low fi/Draft(map-journey-ARlens).png",
+    "Wireframe/DriverLicence4.png",
+    "Wireframe/Explore2.png",
+    "Wireframe/Explore3.png",
+    "Wireframe/DriverLicence2.png",
+    "Wireframe/DriverLicence3.png",
+    "Wireframe/DriverLicence.png",
+    "Wireframe/Journey Tree3.png",
+    "Wireframe/Journey Tree2.png",
+    "Wireframe/Scenario Simulation.png",
+    "Wireframe/Journey Tree1.png",
+    "Wireframe/HomePage.png",
+    "Wireframe/AR Scan2.png",
+    "Wireframe/Explore.png",
+    "Wireframe/Scenario Simulation3.png",
+    "Wireframe/AR Scan.png",
+    "Wireframe/Scenario Simulation2.png",
+    "Initial High/Journey Tree 8.png",
+    "Initial High/Journey Tree 9.png",
+    "Initial High/Explore2.png",
+    "Initial High/Explore3.png",
+    "Initial High/Explore7.png",
+    "Initial High/Ask This Place 2(part of Tools).png",
+    "Initial High/Simulate Scenario2(now part of Journey Tree).png",
+    "Initial High/Explore4.png",
+    "Initial High/Explore5.png",
+    "Initial High/Tools Page.png",
+    "Initial High/Journey Tree3.png",
+    "Initial High/Journey Tree2.png",
+    "Initial High/Simulate Scenario(now part of Journey Tree).png",
+    "Initial High/AR Scan2.png",
+    "Initial High/Explore.png",
+    "Initial High/Journey Tree 7.png",
+    "Initial High/AR Scan.png",
+    "Initial High/Journey Tree 4(Driver License).png",
+    "Initial High/Journey Tree 6.png",
+    "Initial High/Ask This Place (part of Tools).png",
+    "Initial High/Journey Tree(Visit GP).png",
+    "Initial High/Journey Tree 5.png"
+  ]
+}
